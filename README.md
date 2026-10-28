@@ -64,5 +64,29 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Overleaf is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://overleaf.com/
+Overleaf provides an online LaTeX editor that enables real-time collaboration, version control, and seamless project sharing. Used by millions of researchers, students, and professionals, it offers hundreds of templates, integrated reference management, and cloud-based compilation. The platform supports collaborative writing, academic publishing, and technical documentation without any installation.
+
+**Areas:** Collaboration · LaTeX · Cloud · Academic · Writing · Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://overleaf.com/)
+- [Documentation](https://www.overleaf.com/docs)
+- [Getting started](https://www.overleaf.com/learn)
+- [API reference](https://www.overleaf.com/devs)
+- [Pricing](https://www.overleaf.com/user/subscription/plans)
+- [Sign up](https://www.overleaf.com/register)
+- [Blog](https://www.overleaf.com/blog)
+- [Compliance](https://www.overleaf.com/legal#Security)
+- [Terms of service](https://www.overleaf.com/legal)
+- [Privacy policy](https://www.overleaf.com/legal)
+- [GitHub](https://github.com/overleaf)
+- [Status](https://status.overleaf.com/)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/overleaf/](https://apis.io/providers/overleaf/).
